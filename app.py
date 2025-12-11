@@ -78,3 +78,4 @@ if __name__ == '__main__':
     # Ejecuta el servidor de desarrollo de Flask
     # En producción, usarías un servidor como Gunicorn o Waitress
     app.run(debug=True)
+    print("Hola mundo")
